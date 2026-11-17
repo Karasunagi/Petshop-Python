@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "David Tahim",
+    "telefone": "85982236913",
+    "email": "novo@mail.com",
+    "id": 1
+  },
+  {
+    "nome": "Alice",
+    "telefone": "85988098426",
+    "email": "alice@mail.com",
+    "id": 2
+  },
+  {
+    "nome": "viitor",
+    "telefone": "8594565265",
+    "email": "aosjdoe@gmail.com",
+    "id": 3
+  }
+]

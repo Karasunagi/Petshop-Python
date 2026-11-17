@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "areia de cagar",
+    "categoria": "higiênico",
+    "marca": "petbom",
+    "preco": 8.0,
+    "quantidade": 1,
+    "fornecedor": "SacoDeAreia",
+    "id": 1
+  },
+  {
+    "nome": "areia de cagar",
+    "categoria": "higiênico",
+    "marca": "petbom",
+    "preco": 7.99,
+    "quantidade": 1,
+    "fornecedor": "SacoDeAreia",
+    "id": 2
+  }
+]
